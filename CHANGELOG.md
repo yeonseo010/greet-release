@@ -5,6 +5,14 @@ This project follows Keep a Changelog 1.1.0 and Semantic Versioning.
 
 ## [Unreleased]
 
+### Added
+
+- Added `punctuation` to `greet()`, allowing a custom ending mark instead of `!`.
+
+### Fixed
+
+- Fixed blank names in `greet()`: `Hello, !` now becomes `Hello, world!`.
+
 ## [0.1.0] - 2026-11-09
 
 ### Added
