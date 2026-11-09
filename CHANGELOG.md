@@ -5,6 +5,8 @@ This project follows Keep a Changelog 1.1.0 and Semantic Versioning.
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-09
+
 ### Added
 
 - Added `punctuation` to `greet()`, allowing a custom ending mark instead of `!`.
